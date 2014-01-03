@@ -1,4 +1,4 @@
-PTH_protoboard_63
+Solderable_Breadboard_Large
 ====
 
 Solderable breadboard that mirrors a large (63 column) solderless board.
