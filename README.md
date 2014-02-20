@@ -5,7 +5,7 @@ Solderable breadboard that mirrors a large (63 column) solderless board.
 
 Includes provisions for screw terminal connectors, and an trace down the center gutter for ground.  Can be configured for up to 5 independent power rails.
 
-[![Solderable Breadboard Large](https://cdn.sparkfun.com/assets/parts/9/4/3/9/12699-02.jpg)
+[![Solderable Breadboard Large](https://cdn.sparkfun.com/assets/parts/9/4/3/9/12699-02.jpg)  
 *Solderable Breadboard Large*](https://www.sparkfun.com/products/12699)
 
 Design files for the [Solderable Breadboard Large](https://www.sparkfun.com/products/12699).
